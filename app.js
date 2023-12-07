@@ -1,0 +1,1 @@
+console.log("I am hero and a hero to zero");
